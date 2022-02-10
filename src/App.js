@@ -1,4 +1,3 @@
-// Import React
 import React, { Component } from 'react';
 import { Router, navigate } from '@reach/router';
 import firebase from './Firebase';
